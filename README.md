@@ -1,6 +1,6 @@
-### Olá, Mundo! 👋 
+### Hello, World! 👋 
 <br>
-<p>Eu sou a <b>Arlanda Thays</b>, estudante de Desenvolvimento Web particularmente interessada na área do Front-end 👩‍💻</p>  
+<p>I'm <b>Arlanda Thays</b>, Web Development student particularly interested in Frontend 👩‍💻</p>  
 
 <div align="center">
   <a href="https://github.com/arlandathays">
