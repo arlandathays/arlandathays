@@ -1,6 +1,6 @@
 ### Olá, Mundo! 👋 
 <br>
-<p>Eu sou a <b>Arlanda Thays</b>, uma estudante de Desenvolvimento Web particularmente interessada na área do Front-end 👩‍💻</p>  
+<p>Eu sou a <b>Arlanda Thays</b>, estudante de Desenvolvimento Web particularmente interessada na área do Front-end 👩‍💻</p>  
 
 <div align="center">
   <a href="https://github.com/arlandathays">
