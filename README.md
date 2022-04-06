@@ -25,4 +25,4 @@
   <a href="https://www.linkedin.com/in/arlandathays/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ArlandaThays&color=blue" alt="ArlandaThays views"/>
+<img src="https://komarev.com/ghpvc/?username=ArlandaThays&color=blue&style=flat-square" alt="ArlandaThays views"/>
