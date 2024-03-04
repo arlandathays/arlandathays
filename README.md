@@ -1,12 +1,6 @@
 ### Hello, World! 👋 
 <br>
 <p>I'm <b>Arlanda Thays</b>, Web Development student particularly interested in Frontend 👩‍💻</p>  
-
-<div align="center">
-  <a href="https://github.com/arlandathays">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlandathays&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlandathays&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
   
   </div>
 <div align="center" style="display: inline_bloc;"><br>
