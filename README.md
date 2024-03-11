@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/arlandathays">
-<img width="455px" height="190px" src="https://github-readme-stats.vercel.app/api?username=arlandathays&show_icons=true&theme=github_dark&count_private=true"/>  <img width="355px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlandathays&layout=compact&langs_count=7&theme=github_dark" align="right"/>
+<img width="455px" height="190px" src="https://github-readme-stats.vercel.app/api?username=arlandathays&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  <img width="355px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlandathays&layout=compact&langs_count=7&theme=github_dark" align="right"/>
 </div>
   
   </div>
